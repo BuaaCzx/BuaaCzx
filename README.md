@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP & LLM
 - 🌱 I’m currently learning CS in BUAA
 - 📫 caizhixin@buaa.edu.cn
-- 😄 Pronouns: ...
+- 😄 ICPC regional Ag
 - ⚡ Fun fact: ...
 
 <!---
