@@ -1,6 +1,6 @@
 # 👋 Hi, I'm BuaaCzx
 
-🎓 **Beihang University - School of Computer Science**  
+🎓 **Beihang University - The School of Computer Science and Engineering**  
 - Major: Computer Science and Technology  
 - 2022.09 - 2026.07
 
@@ -21,12 +21,18 @@
 ---
 
 ## 🔬 Research & Internship Experience
-- **ACT Lab, Beihang University** (Jan 2024 - Present)  
+- **ACT Lab, Beihang University** (Jan 2024 - Present) 
+
   Research Focus: Natural Language Processing (NLP), Knowledge Graphs, Multi-Agent Systems
 
-- **Zhipu AI** (Sept 2024 - Present)  
-  Role: Large Model SFT Intern  
+- **Zhipu AI** (Sept 2024 - Nov 2024) 
+
   Main Work: Fine-tuning models for enhanced instruction-following and logical reasoning; building evaluation sets for instruction-following tasks
+  
+- **HiDream.ai** (Jan 2025 - Present)
+
+  Role: Algorithm Intern
+  Research Focus: Multimodal Agent, Video Generation
 
 ---
 
@@ -44,7 +50,7 @@
 
 ## 📫 Contact
 - **QQ / WeChat**: 1759320900
-- **Email**: caizhixin@buaa.edu.cn
+- **Email**: **caizhixin04@163.com**, caizhixin@buaa.edu.cn, ~~caizhixin04@gmail.com~~
 - **GitHub**: [BuaaCzx](https://github.com/BuaaCzx)
 
 ---
