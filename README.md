@@ -21,7 +21,7 @@
 ---
 
 ## 🔬 Research & Internship Experience
-- **ACT Lab, Beihang University** (Jan 2024 - Present) 
+- **ACT Lab, Beihang University** (Jan 2024 - Aug 2024) 
 
   Research Focus: Natural Language Processing (NLP), Knowledge Graphs, Multi-Agent Systems
 
@@ -29,11 +29,14 @@
 
   Main Work: Fine-tuning models for enhanced instruction-following and logical reasoning; building evaluation sets for instruction-following tasks
   
-- **HiDream.ai** (Jan 2025 - Present)
+- **HiDream.ai** (Jan 2025 - Mar 2025)
 
   Role: Algorithm Intern
   Research Focus: Multimodal Agent, Video Generation
 
+- **SpeedAI** (Apr 2025 - Present)
+
+  Main Work: Develop Agents
 ---
 
 ## 🔧 Tech Stack
