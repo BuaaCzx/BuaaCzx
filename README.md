@@ -32,6 +32,7 @@
 - **HiDream.ai** (Jan 2025 - Mar 2025)
 
   Role: Algorithm Intern
+  
   Research Focus: Multimodal Agent, Video Generation
 
 - **SpeedAI** (Apr 2025 - Present)
@@ -41,7 +42,7 @@
 
 ## 🔧 Tech Stack
 - **Languages**: C/C++, Java, Python
-- **Frameworks & Tools**: Django, Verilog
+- **Frameworks & Tools**: Django, Verilog, LangChain, LangGraph
 
 ---
 
