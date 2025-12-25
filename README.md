@@ -35,9 +35,13 @@
   
   Research Focus: Multimodal Agent, Video Generation
 
-- **SpeedAI** (Apr 2025 - Present)
+- **SpeedAI** (Apr 2025 - Dec 2025)
 
   Main Work: Develop Agents
+
+- **Beijing Institute for General Artificial Intelligence** (Dec 2025 - Present)
+
+  Main Work: Model Interpretability, Latent Reasoning, Information Retrieval
 ---
 
 ## 🔧 Tech Stack
@@ -47,14 +51,14 @@
 ---
 
 ## 🌱 Interests
-- **Research Areas**: NLP & Large Language Models (LLMs)
+- **Research Areas**: NLP & Large Language Models
 - 🎾 Tennis enthusiast, NTRP 3.0, member of Beihang University Tennis Team
 
 ---
 
 ## 📫 Contact
 - **QQ / WeChat**: 1759320900
-- **Email**: **caizhixin04@163.com**, caizhixin@buaa.edu.cn, ~~caizhixin04@gmail.com~~
+- **Email**: **caizhixin04@163.com**(prefer), caizhixin@buaa.edu.cn, caizhixin04@gmail.com
 - **GitHub**: [BuaaCzx](https://github.com/BuaaCzx)
 
 ---
