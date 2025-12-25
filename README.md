@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 Teaching Experience
+## 📚 University Experience
 - **Teaching Assistant** for *Fundamentals of Programming* (2023 - 2024)
 - **Teaching Assistant** for *C Programming Language* (2023 - 2024)
 - **Teaching Assistant** for *Object-Oriented Design and Construction* (2024 - 2025)
@@ -27,21 +27,19 @@
 
 - **Zhipu AI** (Sept 2024 - Nov 2024) 
 
-  Main Work: Fine-tuning models for enhanced instruction-following and logical reasoning; building evaluation sets for instruction-following tasks
+  Main Work: LLMs Fine-tuning, Build Evaluation Sets for Instruction-Following Tasks
   
 - **HiDream.ai** (Jan 2025 - Mar 2025)
-
-  Role: Algorithm Intern
   
   Research Focus: Multimodal Agent, Video Generation
 
 - **SpeedAI** (Apr 2025 - Dec 2025)
 
-  Main Work: Develop Agents
+  Main Work: Develop Agents and Tools for Coding
 
 - **Beijing Institute for General Artificial Intelligence** (Dec 2025 - Present)
 
-  Main Work: Model Interpretability, Latent Reasoning, Information Retrieval
+  Research Focus: Model Interpretability, Latent Reasoning, Information Retrieval
 ---
 
 ## 🔧 Tech Stack
