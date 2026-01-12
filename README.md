@@ -37,9 +37,14 @@
 
   Main Work: Develop Agents and Tools for Coding
 
-- **Beijing Institute for General Artificial Intelligence** (Dec 2025 - Present)
+- **Beijing Institute for General Artificial Intelligence** (Dec 2025 - Jan 2026)
 
   Research Focus: Model Interpretability, Latent Reasoning, Information Retrieval
+
+- **AMAP, Alibaba** (Jan 2026 - Present)
+
+  Research Focus: Vision-Language Alignment
+  
 ---
 
 ## 🔧 Tech Stack
