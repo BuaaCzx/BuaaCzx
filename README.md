@@ -43,7 +43,7 @@
 
 - **AMAP, Alibaba** (Jan 2026 - Present)
 
-  Research Focus: Vision-Language Alignment
+  Research Focus: Vision-Language Alignment, Vision QA, ...
   
 ---
 
